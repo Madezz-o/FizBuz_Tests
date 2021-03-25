@@ -4,6 +4,8 @@ class FizzBuzz :
             raise(errorException())
         elif nombre % 3 == 0:
             return "FIZZ"
+        elif nombre % 5 == 0:
+            return "BUZZ"
         return nombre
 
 
