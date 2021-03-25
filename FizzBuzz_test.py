@@ -13,3 +13,8 @@ class FizzBuzz_Tests(unittest.TestCase):
         nombre = 0
         with self.assertRaises(errorException):
             FizzBuzz.NombreMultiplicateur(nombre)
+
+    def test_nombre_negatif(self):
+        nombre = -5
+        with self.assertRaises(errorException):
+            FizzBuzz.NombreMultiplicateur(nombre)
