@@ -1,7 +1,7 @@
 Tests à faire : 
 
-- renvoie le bon nombre entré par l'utilisateur
-- renvoie erreur si = 0
+- renvoie le bon nombre entré par l'utilisateur /ok
+- renvoie erreur si = 0 /ok
 - renvoie erreur si negatif
 - renvoie fizz si nombre = 3
 - renvoie fizz si nombre est multiple de 3
