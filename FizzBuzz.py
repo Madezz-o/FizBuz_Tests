@@ -6,6 +6,8 @@ class FizzBuzz :
             return "FIZZ"
         elif nombre % 5 == 0:
             return "BUZZ"
+        elif nombre % 3 == 0 and nombre % 5 == 0 :
+            return "FIZZBUZZ" 
         return nombre
 
 

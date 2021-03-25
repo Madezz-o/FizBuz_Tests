@@ -6,3 +6,4 @@ Tests à faire :
 - renvoie fizz si nombre est multiple de 3 /ok
 - renvoie buzz si nombre est multiple de 5 /ok
 - renvoie fizzbuzz si nombre multiple de 3 et 5
+
