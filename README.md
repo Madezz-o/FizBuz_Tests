@@ -1,1 +1,1 @@
-# FizBuz_Tests
+# FizzBuzz_Tests
