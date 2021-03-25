@@ -1,6 +1,6 @@
 Tests à faire : 
 
-- renvoie le bon nombre
+- renvoie le bon nombre entré par l'utilisateur
 - renvoie erreur si = 0
 - renvoie erreur si negatif
 - renvoie fizz si nombre = 3
