@@ -18,3 +18,9 @@ class FizzBuzz_Tests(unittest.TestCase):
         nombre = -5
         with self.assertRaises(errorException):
             FizzBuzz.NombreMultiplicateur(nombre)
+
+    def test_renvoie_fizz_nombre_multiple_de_3(self):
+        nombre = 9
+        result = "FIZZ"
+        nombreRetourne = FizzBuzz.NombreMultiplicateur(nombre)
+        self.assertEqual(result, nombreRetourne)

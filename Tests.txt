@@ -3,8 +3,6 @@ Tests à faire :
 - renvoie le bon nombre entré par l'utilisateur /ok
 - renvoie erreur si = 0 /ok
 - renvoie erreur si negatif /ok
-- renvoie fizz si nombre = 3
-- renvoie fizz si nombre est multiple de 3
-- renvoie buzz si nombre = 5
+- renvoie fizz si nombre est multiple de 3 /ok
 - renvoie buzz si nombre est multiple de 5
 - renvoie fizzbuzz si nombre multiple de 3 et 5
