@@ -22,3 +22,4 @@ class FizzBuzz :
 class errorException(Exception):
     def __init__(self, texte):
         super()
+        self.texte = texte

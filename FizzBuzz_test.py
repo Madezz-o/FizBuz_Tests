@@ -42,3 +42,6 @@ class FizzBuzz_Tests(unittest.TestCase):
         with self.assertRaises(errorException):
             FizzBuzz.NombreMultiplicateur(nombre)
 
+
+if __name__ == '__main__':
+    unittest.main()
