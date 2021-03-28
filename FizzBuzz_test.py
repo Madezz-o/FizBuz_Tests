@@ -43,5 +43,3 @@ class FizzBuzz_Tests(unittest.TestCase):
             FizzBuzz.NombreMultiplicateur(nombre)
 
 
-if __name__ == '__main__':
-    unittest.main()
